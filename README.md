@@ -1,2 +1,2 @@
-# xamarin-workshop
-Xamarin workshops for building a Xamarin.Android and Xamarin.Forms App
+# FIAP HandsOn Xamarin.Forms
+Atividades em sala de aula Xamarin.Forms FIAP - HandsOn
